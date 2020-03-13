@@ -1,5 +1,9 @@
 {
   "main": "node_modules/expo/AppEntry.js",
+  "name": "todo",
+  "description": "Todo app by react native with expo",
+  "version": "0.0.0",
+  "author": "YopiNoji",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
